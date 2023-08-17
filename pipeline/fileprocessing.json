@@ -179,8 +179,7 @@
 		],
 		"parameters": {
 			"p1": {
-				"type": "string",
-				"defaultValue": "abc"
+				"type": "string"
 			}
 		},
 		"annotations": [],
