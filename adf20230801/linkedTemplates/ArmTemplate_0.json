@@ -355,10 +355,15 @@
 					"elapsedTimeMetric": {},
 					"cancelAfter": {}
 				},
+				"parameters": {
+					"p1": {
+						"type": "string"
+					}
+				},
 				"variables": {
 					"FileSize": {
-						"type": "Integer",
-						"defaultValue": 50
+						"type": "String",
+						"defaultValue": "150"
 					}
 				},
 				"annotations": [],
