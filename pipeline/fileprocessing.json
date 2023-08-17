@@ -175,12 +175,26 @@
 						}
 					]
 				}
+			},
+			{
+				"name": "Set variable1",
+				"type": "SetVariable",
+				"dependsOn": [],
+				"policy": {
+					"secureOutput": false,
+					"secureInput": false
+				},
+				"userProperties": [],
+				"typeProperties": {
+					"variableName": "",
+					"value": ""
+				}
 			}
 		],
-		"variables": {
-			"FileSize": {
-				"type": "Integer",
-				"defaultValue": 50
+		"parameters": {
+			"p1": {
+				"type": "string",
+				"defaultValue": "abc"
 			}
 		},
 		"annotations": [],
