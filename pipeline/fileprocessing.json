@@ -180,7 +180,7 @@
 		"variables": {
 			"FileSize": {
 				"type": "Integer",
-				"defaultValue": 100
+				"defaultValue": 50
 			}
 		},
 		"annotations": [],
