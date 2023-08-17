@@ -34,6 +34,7 @@
 			},
 			{
 				"name": "ForEach1",
+				"description": "Test",
 				"type": "ForEach",
 				"dependsOn": [
 					{
